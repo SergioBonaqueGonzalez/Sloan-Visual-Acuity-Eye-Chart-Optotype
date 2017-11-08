@@ -11,6 +11,12 @@ As pixels number is a discrete value, only discrete values of visual acuities ca
 
 It was written for my own experiments and works well for small displays. It there is any problem with big sizes, please contact me :-) .
 
-It was written by Sergio Bonaque-Gonzáles
-sergiob@wooptix.com
-https://www.linkedin.com/in/sergiobonaque/
+It was written by Sergio Bonaque-González
+
+        sergiob@wooptix.com
+        
+        https://www.linkedin.com/in/sergiobonaque/
+
+
+
+![My image1](/imgs/figure1.jpg)   
