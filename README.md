@@ -14,7 +14,7 @@ It generates an optotype of random Sloan letters according to a variery of speci
         YOU CAN MODIFIED THESE VARIABLES DIRECTLY INTO THE SCRIPT, LINES 19-23.
         
         
-As pixels number is a discrete value, only discrete values of visual acuities can be displayed accurately. Additionally, to display perfectly a Sloan letter, it has to be multiply of 5 in size. So, this script gives the nearest possible visual acuity values to the desired one.
+As pixels number is a discrete value, only discrete values of visual acuities can be displayed accurately. Additionally, to display perfectly a Sloan letter it has to be multiply of 5 in size. So, this script gives the nearest possible visual acuity values to the desired one.
 
 It was written for my own experiments and works well for small displays. It there is any problem with bigger sizes, please contact me :-) .
 
