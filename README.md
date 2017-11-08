@@ -1,5 +1,5 @@
 # Sloan-Visual-Acuity-Eye-Chart-Optotype
-This script generates an theoretically exact optotype based on Sloan letters, usefull for visual experiments.
+This script generates a theoretically exact optotype based on Sloan letters, usefull for visual experiments.
 
 It generates an optotype of random Sloan letters according to a variery of specified variables:
 
