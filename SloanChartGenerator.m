@@ -163,31 +163,7 @@ end
 
 imshow([wholeChart; texto])
 
-% % for i=1:length(Truerange)
-% %     for j=0:LetterPerColumn(i)-1
-% %         imshow(Screen)
-% %         VerticalWhiteSpace=floor(PixelsPerLine-pixels(i)/2);
-% %         letter=generateLetter(pixels(i)); %Function that generates a random letter with the proper size
-% %         letter(letter<255)=0;
-% %         Screen(i*VerticalWhiteSpace:i*VerticalWhiteSpace+pixels(i)-1,pixels(i)+(j*pixels(i)*2):2*pixels(i)+(j*pixels(i)*2)-1)=letter;
-% %         position(i,2) =floor(i*VerticalWhiteSpace+(pixels(i)/2))-FontSize/1.3;
-% %         position(i,1)=Dimensions(2)-FontSize*3;
-% %     end
-% % end
-%
-%
-% % for i=1:length(Truerange)
-% %     text_str{i} = [num2str(Truerange(i))];
-% % end
-%
-%
-%
-% % Screen=insertText(Screen,position,text_str,'FontSize',FontSize,'BoxColor','green','BoxOpacity',1,'TextColor','black');
-%
-%
-% figure
-% imshow(Screen)
 
 
-
+imwrite(wholeChart,'eyechart.tif')
 
