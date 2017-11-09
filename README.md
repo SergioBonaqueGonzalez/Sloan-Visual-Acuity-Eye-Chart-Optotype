@@ -29,7 +29,7 @@ It was written by Sergio Bonaque-González (sergiob@wooptix.com)  and David Carm
 
 
 
-
+Example:
 
 
 ![My image1](/imgs/figure1.jpg)   
