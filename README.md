@@ -9,7 +9,7 @@ It generates an optotype of random Sloan letters according to a variery of speci
         
         - Dimensions in pixels of the screen in number of vertical and horizontal pixels.
         
-        - Maximum lines of the optotype.
+        - Maximum lines of the optotype to be plotted.
         
         YOU CAN MODIFIED THESE VARIABLES DIRECTLY INTO THE SCRIPT, LINES 19-23.
         
@@ -20,11 +20,11 @@ It was written for my own experiments and works well for small letter size. As S
 
 If you use my work in a scientifical work, do not forget to include me in the acknowledgment section !
 
-It was written by Sergio Bonaque-González
+It was written by Sergio Bonaque-González  and David Carmona-Ballester
 
-        sergiob@wooptix.com
+  sergiob@wooptix.com                                   dacabad2@gmail.com      
         
-        https://www.linkedin.com/in/sergiobonaque/
+  https://www.linkedin.com/in/sergiobonaque/            
 
 
 
