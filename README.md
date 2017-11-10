@@ -26,10 +26,7 @@ It was written by Sergio Bonaque-González (sergiob@wooptix.com)  and David Carm
         
   https://www.linkedin.com/in/sergiobonaque/        
   
-
-
-
-
-
-
 ![My image1](/imgs/figure1.jpg)   
+
+
+This code uses a function called text2im made by Tobias Kiessling. The file is already included inside this project and can be downloaded in the mathworks site by clicking on this link: https://es.mathworks.com/matlabcentral/fileexchange/19896-convert-text-to-an-image
