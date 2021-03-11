@@ -20,7 +20,7 @@ It was written for my own experiments and works well for small letter size. As S
 
 If you use my work in a scientifical work, do not forget to include me in the acknowledgment section !
 
-It was written by Sergio Bonaque-González (sergiob@wooptix.com)  and David Carmona-Ballester (dacabad2@gmail.com)
+It was written by Sergio Bonaque-González (sergio.bonaque.gonzalez@gmail.com)  and David Carmona-Ballester (dacabad2@gmail.com)
 
                                                
         
